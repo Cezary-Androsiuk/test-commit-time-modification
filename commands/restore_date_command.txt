@@ -1,0 +1,3 @@
+set GIT_AUTHOR_DATE=
+set GIT_COMMITTER_DATE=
+git commit -m "message"
