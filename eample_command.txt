@@ -1,1 +1,0 @@
-echo > 20220428_00.txt && git add . && set GIT_AUTHOR_DATE="2022-04-28 20:50:40" && set GIT_COMMITTER_DATE="2022-04-28 20:50:40" && git commit -m "Twój komunikat commita 0"
